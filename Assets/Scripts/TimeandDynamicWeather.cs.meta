@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: afc612e0a9d126a4f8a328414d280c0b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - shine: {fileID: 2100000, guid: 342c15ea1899fcc4ba20b75f60c3ad43, type: 2}
+  - storm: {fileID: 2100000, guid: 2039a0ad0a9d05549928b70362f54902, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
