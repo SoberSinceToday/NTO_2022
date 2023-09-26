@@ -1,4 +1,4 @@
-# NTO_2022
+# NTO_2022-2023
 <h1 align="center">Sup, there's my NTO C#️⃣ project</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">All of it was done in a week using Unity</h3>
